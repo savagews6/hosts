@@ -30251,7 +30251,6 @@
 
 # Windows 10 reporting domains.
 127.0.0.1 adnexus.net
-127.0.0.1 a-msedge.net
 127.0.0.1 az361816.vo.msecnd.net
 127.0.0.1 az512334.vo.msecnd.net
 127.0.0.1 cdn.atdmt.com
@@ -30264,7 +30263,6 @@
 127.0.0.1 lb1.www.ms.akadns.net
 127.0.0.1 live.rads.msn.com
 127.0.0.1 m.adnxs.com
-127.0.0.1 msedge.net
 127.0.0.1 msnbot-65-55-108-23.search.msn.com
 127.0.0.1 msntest.serving-sys.com
 127.0.0.1 preview.msn.com
@@ -30352,15 +30350,6 @@
 ### Extra rules for @StevenBlack 's hosts project
 ### https://github.com/FadeMind/hosts.extras
 ### <Windows 10 Telemetry> < B E G I N >
-127.0.0.1 a-0001.a-msedge.net
-127.0.0.1 a-0002.a-msedge.net
-127.0.0.1 a-0003.a-msedge.net
-127.0.0.1 a-0004.a-msedge.net
-127.0.0.1 a-0005.a-msedge.net
-127.0.0.1 a-0006.a-msedge.net
-127.0.0.1 a-0007.a-msedge.net
-127.0.0.1 a-0008.a-msedge.net
-127.0.0.1 a-0009.a-msedge.net
 127.0.0.1 ac3.msn.com
 127.0.0.1 apps.skype.com
 127.0.0.1 ca.telemetry.microsoft.com
@@ -31988,3 +31977,8 @@
 127.0.0.1 zintext.com
 127.0.0.1 zmedia.com
 127.0.0.1 zv1.november-lax.com
+
+
+#Custom
+127.0.0.1 orionimg.adkmob.com
+127.0.0.1 d1ekgxqkmqxpn1.cloudfront.net
